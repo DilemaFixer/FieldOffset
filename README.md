@@ -1,7 +1,5 @@
 # fieldoffset
 
-// Todo: chack code in HtmlPuzzles
-
 Go package for calculating field offsets in structs using pointer arithmetic and Go's type system. Provides compile-time field offset calculation with caching for efficient access to nested struct fields.
 
 ## Overview
